@@ -1,0 +1,25 @@
+{
+  "name": "vibes_backend_challenge",
+  "version": "1.0.0",
+  "description": "See data.json where you will find `{     studentCharges,     elevatorInfo }`",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vibebees/vibes_backend_challenge.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vibebees/vibes_backend_challenge/issues"
+  },
+  "homepage": "https://github.com/vibebees/vibes_backend_challenge#readme",
+  "dependencies": {
+    "mongodb": "^4.4.1",
+    "mongoose": "^6.2.6"
+  }
+}
