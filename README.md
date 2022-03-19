@@ -1,3 +1,11 @@
+To install package run `npm install`
+
+Add mongodb credentials to environment key `VIBES_MONGODB_URL`
+
+The `university` will to renamed to `universities` when connecting to mongodb server.
+
+Run the script `npm run start`
+
 # Task 1
 #### step 1
 See data.json where you will find
